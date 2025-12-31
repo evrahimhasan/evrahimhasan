@@ -47,6 +47,5 @@ Junior Frontend Web Developer focused on building clean, responsive user interfa
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=evrahimhasan)  
 
-![GitHub Contributions](https://github.com/evrahimhasan.png?size=160)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
