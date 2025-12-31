@@ -43,9 +43,11 @@ Junior Frontend Web Developer focused on building clean, responsive, and user-fr
 
 ### 📊 GitHub Overview
 
-<!-- ❌ COMMENTED: Unstable third-party service (often shows 503 / Error Fetching Resource)
 ![GitHub Metrics](https://metrics.lecoq.io/evrahimhasan)
--->
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=evrahimhasan&theme=default)
+
 
 <!-- ❌ COMMENTED: Streak service frequently down
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=evrahimhasan)
