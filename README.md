@@ -48,17 +48,4 @@ Junior Frontend Web Developer focused on building clean, responsive, and user-fr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=evrahimhasan&theme=default)
 
-
-<!-- ❌ COMMENTED: Streak service frequently down
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=evrahimhasan)
--->
-
-<!-- ❌ COMMENTED: External example stats (not related to your profile)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
--->
-
-<!-- ✅ SAFE & WORKING -->
-![Evrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evrahimhasan&show_icons=true&theme=radical)
-
-<!-- ✅ OFFICIAL GitHub Contribution Graph (never breaks) -->
-![GitHub Contributions](https://github.com/evrahimhasan.png)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evrahimhasan) 
