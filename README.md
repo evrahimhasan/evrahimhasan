@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Evrahim Hasan Emran
 #### Frontend Web Developer
-![Frontend Web Developer](https://i.ibb.co.com/p6Nm78rp/Neutral-Modern-Web-Developer-Linked-In-Banner.png)
+![Frontend Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQHSDJOe1I9ldg/profile-displaybackgroundimage-shrink_350_1400/B4EZtz6TZQGoAY-/0/1767176223657?e=1769040000&v=beta&t=K78_GTaAcI4dkCO_iVyK18Ns0ZlDc-zg5thEoRl33cM)
 
 Junior Frontend Web Developer focused on building clean, responsive user interfaces using HTML, CSS, JavaScript, and React.
 
