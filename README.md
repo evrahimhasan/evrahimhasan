@@ -43,9 +43,9 @@ Currently, I am improving my skills in frontend frameworks and exploring full-st
 ---
 
 ### 📍 Contact Information
-- 📌 Location: Dhaka, Bangladesh  
-- 📧 Email: YOUR_EMAIL@example.com  
-- 📞 Phone: +880-XXXXXXXXXX  
+- 📌 Location: Mymensingh, Bangladesh  
+- 📧 Email: evrahimhasanemran@gmail.com  
+- 📞 Phone: +880-1301701330  
 
 ---
 
