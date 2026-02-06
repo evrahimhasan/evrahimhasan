@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHSDJOe1I9ldg/profile-displaybackgroundimage-shrink_350_1400/B4EZtz6TZQGoAY-/0/1767176223657?e=1769040000&v=beta&t=K78_GTaAcI4dkCO_iVyK18Ns0ZlDc-zg5thEoRl33cM" alt="Banner" />
+<img src="https://i.ibb.co.com/4ZfrMYV3/Beige-Minimalist-Business-Linked-In-Article-Cover-Image.png" alt="Banner" />
 
 # Hi there 👋, I'm Evrahim Hasan Emran  
 ### Frontend Web Developer
