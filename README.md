@@ -55,10 +55,11 @@ Currently, I am improving my skills in frontend frameworks and exploring full-st
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=evrahimhasan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=evrahimhasan&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=evrahimhasan&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Streak
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=evrahimhasan&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
