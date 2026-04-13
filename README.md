@@ -51,7 +51,7 @@ Currently, I am improving my skills in frontend frameworks and exploring full-st
 
 ### 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/evrahim-hasan-emran  
-- 💻 GitHub: https://github.com/evrahimhasan  
+- 💻 Portfolio: https://evrahim-hasan-emran.netlify.app/
 
 ---
 
